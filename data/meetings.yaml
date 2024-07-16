@@ -1,0 +1,198 @@
+# Use of space in this file is important.
+#
+# Basic Format (can exclude 'note:' and 'provides'):
+# - Valid "type" codes: https://github.com/code4recovery/spec#meeting-types
+#   EN:English, B:BigBook, C:Closed, O:Open, 12x12:TwelveByTwelve, D:Discussion,
+#   SP:Speaker, ST:StepStudy, TR:TraditionStudy, X:WheelchairAccess, BA:Babysitting
+#
+#<shortname>:
+#  name: <Name of Place>
+#  time:
+#    Sunday: ["00:00", "13:00"]
+#    Monday: ["00:00", "13:00"]
+#  place: <Name of Building>
+#  address: <Mailing Address of Location>
+#  note: |
+#      First "note" line appears on meeting-schedule.pdf.
+#      <br />Additional lines require the "<br />" tag
+#  type: [EN, B, TR]
+#  # Optional Fields
+#  longitude: 0.0
+#  latitude: 0.0
+#  hidefrom: [map, pdf, json]
+
+d24-grup3:
+  name: Grup 3 De Noviembre
+  time:
+    Monday: ["19:30"]
+    Tuesday: ["19:30"]
+    Wednesday: ["19:30"]
+    Thursday: ["19:30"]
+    Friday: ["19:30"]
+    Saturday: ["19:30"]
+  place: Trinity CME Church
+  address: 1028 Commerce Blvd., Birmingham, AL, 35215
+  note: |
+      Contact: Victor A. (tel. 205-276-9991)
+  type: [S, B]
+  longitude: -86.695822
+  latitude: 33.544947
+
+d24-vision:
+  name: Grupo La Nueva Vision
+  time:
+    Monday: ["19:30"]
+    Wednesday: ["19:30"]
+    Friday: ["19:30"]
+    Saturday: ["19:30"]
+  address: 252 5th Ave NW, Birmingham, AL, 35215
+  note: |
+      Contact: Filiberto Mandina (tel. 205-229-7794)
+  type: [S, B]
+  longitude: -86.976069
+  latitude: 33.636014
+
+d24-sendero:
+  name: Grupo Sendero De Vida
+  time:
+    Wednesday: ["19:30"]
+    Friday: ["19:30"]
+    Sunday: ["19:30"]
+  place: Downtown Check Exchange
+  address: 114 E. Main St, Albertville, AL, 35950
+  note: |
+      Contact: Victor G (tel. 256-673-8064)
+  type: [S, B]
+  longitude: -86.208107
+  latitude: 34.267723
+
+d24-esperanza:
+  name: Grupo Esperanza De Vivir
+  time:
+    Wednesday: ["19:30"]
+    Friday: ["19:30"]
+    Saturday: ["19:30"]
+    Sunday: ["18:00"]
+  place: Blue Tin Roof
+  address: 3615 University Blvd E., Tuscaloosa, AL, 35404
+  note: |
+      Contact: Delio G. (tel. 205-239-6439)
+  type: [S, B]
+  longitude: -87.490305
+  latitude: 33.205364
+
+d24-amanecer:
+  name: Grupo Nuevo Amanecer
+  time:
+    Monday: ["19:00"]
+    Tuesday: ["19:00"]
+    Wednesday: ["19:00"]
+    Thursday: ["19:00"]
+    Friday: ["19:00"]
+    Saturday: ["19:00"]
+  place: AA Clubhouse
+  address: 110 Tuscaloosa St, Russellville, AL, 35664
+  note: |
+      Contact: Leonardo L. (tel. 256-412-8240)
+  type: [S, B]
+  longitude: -87.730898
+  latitude: 34.501824
+
+d24-ayudate:
+  name: Grupo Ayudate a ti Mismo
+  time:
+    Monday: ["19:30"]
+    Tuesday: ["19:30"]
+  place: Strip Mall
+  address: 3412 Atlanta Hwy, Montgomery, AL, 36109
+  note: |
+      Contact: Eric (tel. 334-201-6767)
+  type: [S, B]
+  longitude: -86.258362
+  latitude: 32.384297
+
+d24-vida:
+  name: Grupo Nueva Vida
+  time:
+    Monday: ["20:00"]
+    Wednesday: ["20:00"]
+    Sunday: ["20:00"]
+  place: New Life
+  address: 2240 US-78, Oxford, AL, 36203
+  note: |
+      Contact: Jesus (tel. 256-770-1487)
+  type: [S, B]
+  longitude: -85.882959
+  latitude: 33.593132
+
+d24-vivir:
+  name: Grupo La Alegria de Vivir
+  time:
+    Wednesday: ["19:00"]
+    Friday: ["19:00"]
+    Saturday: ["19:00"]
+  place: St Joseph Catholic Church
+  address: 1111 East College St, Florence, AL, 35630
+  note: |
+      Contact: Jose (tel. 256-810-8934, 256-856-7201)
+  type: [S, B]
+  longitude: -87.663061
+  latitude: 34.805035
+
+d24-estacion:
+  name: Grupo la Ultima Estacion
+  time:
+    Monday: ["19:30"]
+    Tuesday: ["19:30"]
+    Wednesday: ["19:30"]
+    Friday: ["19:30"]
+    Saturday: ["19:30"]
+  place: Near Metro Truck Rental
+  address: 608 Circle Hts, Bessemer, AL, 35020
+  note: |
+      Contact: Mario [DCM] (tel. 205-261-9351)
+      <br>Daniel [GSR] (tel. 205-201-8005
+  type: [S, B]
+  longitude: -86.973950
+  latitude: 33.393259
+
+d24-24horas:
+  name: Grupo 24 Horas
+  time:
+    Tuesday: ["19:30"]
+    Wednesday: ["19:30"]
+    Thursday: ["19:30"]
+  place: Near US Post Office
+  address: 26038 AL-75 N, Allgood, AL, 35013
+  note: |
+      Contact: Amado (tel. 678-978-3573)
+  type: [S, B]
+  longitude: -86.509215
+  latitude: 33.913529
+
+d24-hsv:
+  name: Grupo Sendero defe Hsv
+  time:
+    Tuesday: ["19:00"]
+    Thursday: ["19:00"]
+    Friday: ["19:00"]
+    Saturday: ["19:00"]
+  place: Near Abogados Centro Legal
+  address: 3201 Triana Blvd SW, Huntsville, AL, 35805
+  type: [S, B]
+  longitude: -86.609305
+  latitude: 34.705049
+
+d24-transmitelo:
+  name: Transmitelo (Stairway)
+  time:
+    Monday: ["19:30"]
+    Tuesday: ["19:30"]
+    Wednesday: ["19:30"]
+    Thursday: ["19:30"]
+    Friday: ["19:30"]
+  place: "Gateway Shopping Center #G2"
+  address: 1820 6th Ave. SE, Decatur, AL, 35601
+  type: [S, B]
+  longitude: -86.974841
+  latitude: 34.576783

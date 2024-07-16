@@ -1,0 +1,210 @@
+# General
+
+- id: website_source
+  translation: Fuente del sitio web
+
+- id: aawebsite_title
+  translation: Sitios Web de A.A.
+
+- id: eventssidemenu_title
+  translation: Eventos
+
+- id: resources_title
+  translation: Recursos
+
+# Day of Week
+
+- id: Sunday
+  translation: Domingo
+
+- id: Monday
+  translation: Lunes
+
+- id: Tuesday
+  translation: Martes
+
+- id: Wednesday
+  translation: Miércoles
+
+- id: Thursday
+  translation: Jueves
+
+- id: Friday
+  translation: Viernes
+
+- id: Saturday
+  translation: Sábado
+
+# Meeting Page
+
+- id: meeting_building
+  translation: Edificio
+
+- id: meeting_address
+  translation: Dirección
+
+- id: meeting_phone
+  translation: Teléfono de la reunión
+
+- id: meeting_times
+  translation: Horarios de la reunión
+
+- id: meeting_type
+  translation: Tipo de reunión
+
+# Meeting List - Filters
+
+- id: filter_noscript
+  translation: ¡Los filtros requieren JavaScript!
+
+- id: Reset
+  translation: Reiniciar
+
+- id: all_times
+  translation: Todos horarios
+
+- id: all_days
+  translation: Todos días
+
+- id: all_regions
+  translation: Todas regiones
+
+- id: all_tags
+  translation: Todas etiquetas
+
+- id: Time
+  translation: Hora
+
+- id: Meeting
+  translation: Reunión
+
+- id: Location
+  translation: Ubicación
+
+- id: Address
+  translation: Dirección
+
+- id: Region
+  translation: Región
+
+##
+# C4R Meeting Type
+# - Copied From: https://github.com/code4recovery/spec#meeting-types
+##
+
+- id: c4r_11
+  translation: Meditación del Undécimo Paso
+- id: c4r_12x12
+  translation: 12 Pasos y Tradiciones
+- id: c4r_A
+  translation: Secular
+- id: c4r_ABSI
+  translation: Como lo ve Bill
+- id: c4r_AL
+  translation: Concurrente con Alateen
+- id: c4r_AL-AN
+  translation: Concurrente con Al-Anon
+- id: c4r_ASL
+  translation: Lenguaje de Señas Americano
+- id: c4r_B
+  translation: Libro Grande
+- id: c4r_BA
+  translation: Cuidado de niños disponible
+- id: c4r_BE
+  translation: Recién llegados
+- id: c4r_BI
+  translation: Bisexual
+- id: c4r_BRK
+  translation: Desayuno
+- id: c4r_C
+  translation: Cerrada
+- id: c4r_CAN
+  translation: Luz de velas
+- id: c4r_CF
+  translation: Amigable para niños
+- id: c4r_D
+  translation: Discusión
+- id: c4r_DB
+  translation: Canasta digital
+- id: c4r_DD
+  translation: Diagnóstico dual
+- id: c4r_DR
+  translation: Reflexiones diarias
+- id: c4r_EN
+  translation: Inglés
+- id: c4r_FF
+  translation: Libre de fragancias
+- id: c4r_FR
+  translation: Francés
+- id: c4r_G
+  translation: Amigable para gays
+- id: c4r_GR
+  translation: Vinícola
+- id: c4r_H
+  translation: Cumpleaños
+- id: c4r_HE
+  translation: Hebreo
+- id: c4r_ITA
+  translation: Italiano
+- id: c4r_JA
+  translation: Japonés
+- id: c4r_KOR
+  translation: Coreano
+- id: c4r_L
+  translation: Lesbiana
+- id: c4r_LGBTQ
+  translation: LGBTQ
+- id: c4r_LIT
+  translation: Literatura
+- id: c4r_LS
+  translation: Sobrio viviendo
+- id: c4r_M
+  translation: Solo para hombres
+- id: c4r_MED
+  translation: Meditación
+- id: c4r_N
+  translation: Nativo Americano
+- id: c4r_NDG
+  translation: Indígena
+- id: c4r_O
+  translation: Abierta
+- id: c4r_OUT
+  translation: Al aire libre
+- id: c4r_P
+  translation: Profesionales
+- id: c4r_POC
+  translation: Personas de color
+- id: c4r_POL
+  translation: Polaco
+- id: c4r_POR
+  translation: Portugués
+- id: c4r_PUN
+  translation: Punjabi
+- id: c4r_RUS
+  translation: Ruso
+- id: c4r_S
+  translation: Español
+- id: c4r_SEN
+  translation: Adultos mayores
+- id: c4r_SM
+  translation: Permitido fumar
+- id: c4r_SP
+  translation: Orador
+- id: c4r_ST
+  translation: Estudio de pasos
+- id: c4r_T
+  translation: Amigable para personas transgénero
+- id: c4r_TC
+  translation: Temporalmente cerrada
+- id: c4r_TR
+  translation: Estudio de tradiciones
+- id: c4r_W
+  translation: Solo para mujeres
+- id: c4r_X
+  translation: Acceso para sillas de ruedas
+- id: c4r_XB
+  translation: Baño accesible
+- id: c4r_XT
+  translation: Conversación cruzada permitida
+- id: c4r_Y
+  translation: Jóvenes

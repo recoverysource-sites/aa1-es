@@ -1,6 +1,6 @@
 ---
-title: Events
+title: Eventos
 layout: reverselist
 ---
 
-Please [contact us](/contact/) if you have an event you would like added to the list!
+¡Por favor [contáctenos](/contact/) si tiene un evento que le gustaría agregar a la lista!

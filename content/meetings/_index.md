@@ -1,9 +1,9 @@
 ---
-title: Meetings
+title: Reuniones
 layout: single
 ---
 
-{{< meeting-map zoom=7 latitude=43.536388 longitude=-96.731667 >}}
+{{< meeting-map zoom=7 latitude=33.601573 longitude=-86.528766 >}}
 
 ----
 

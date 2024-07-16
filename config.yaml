@@ -1,0 +1,48 @@
+baseURL: https://aa1-es.sober.page/
+title: Reuniones Españolas de AA
+
+languageCode: es
+defaultContentLanguage: es
+theme: [aamod, mainroad]
+sectionPagesMenu: main
+paginate: 100
+buildFuture: true
+
+Params:
+  description: Reuniones Españolas de Alcohólicos Anónimos en Alabama y Northwest Florida
+  source: https://github.com/recoverysource-sites/aa1-es/tree/master
+  #mapapikey: Please visit https://developers.google.com/maps/documentation/embed/get-api-key
+  mapapikey: AIzaSyBg0f3NSXw5LfhVa4etDaCgZJw7qIIS_Z0
+  copyright: AA Area 1
+  phone: 123-456-7890
+  logo:
+    image: img/AAlogo.webp
+    title: Reuniones Españolas
+    subtitle: Alabama y Northwest Florida
+  toc: true
+  mainSections: [home, meetings, about, events]
+  sidebar:
+    single: right
+    home: right
+    widgets: [resources, eventsidemenu, aasites]
+  widgets:
+
+    resources:
+      cached: true
+      links:
+      - title: Meeting Schedule
+        url: /meeting-schedule.pdf
+      - title: El Libro Grande de AA
+        url: https://www.aa.org/es/the-big-book
+
+    aasites:
+      cached: true
+      links:
+      - title: "(EN) A.A. Area 1 (Alabama y NW Florida)"
+        url: https://www.aaarea1.org/
+
+markup:
+  goldmark:
+    renderer:
+      # Permit raw HTML in content
+      unsafe: true
